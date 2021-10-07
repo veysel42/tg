@@ -41,7 +41,7 @@ while True:
     banner()
     print(lg+'[1] Yeni Hesap Ekle'+n)
     print(lg+'[2] Banlı Hesapları Filtrele'+n)
-    print(lg+'[3] Delete specific accounts'+n)
+    print(lg+'[3] Hesap Sil'+n)
     print(lg+'[4] Yazılımı Güncelle'+n)
     print(lg+'[5] Çıkış'+n)
     a = int(input('\nSeçimini Gir: '))
